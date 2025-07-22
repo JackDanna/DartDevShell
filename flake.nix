@@ -17,6 +17,7 @@
             "vscode-with-extensions"
             "vscode"
             "vscode-extension-mhutchie-git-graph"
+            "android-studio-stable"
           ];
           android_sdk.accept_license = true;
           allowUnfree = true;
@@ -59,6 +60,7 @@
           flutter
           androidSdk
           jdk17
+          android-studio
 
           bashInteractive
           dart
